@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **MERN stack**
 
-- 👨‍💻 All of my projects are available at : [https://mainlah.github.com/portfolio-kusuma](https://mainlah.github.com/portfolio-kusuma)
+- 👨‍💻 All of my projects are available at : [https://mainlah.github.com/portfolio-kusuma](https://mainlah.github.io/portfolio-kusuma)
 
 - 📫 How to reach me : **rendrakusumab@gmail.com**
 
